@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/craftznora-homepage/static/css/main.b9f7eb6d.css",
+    "main.js": "/craftznora-homepage/static/js/main.9cf2a095.js",
+    "static/media/profile.png": "/craftznora-homepage/static/media/profile.537025e0e4f807034475.png",
+    "static/media/about.png": "/craftznora-homepage/static/media/about.ce68edf4c4f6dd7e0f22.png",
+    "static/media/project1.png": "/craftznora-homepage/static/media/project1.ad1c0278480cc77a70a1.png",
+    "static/media/project2.png": "/craftznora-homepage/static/media/project2.1e531e6b40d0323b17cc.png",
+    "static/media/project5.png": "/craftznora-homepage/static/media/project5.3238e2b7df361e13d5f5.png",
+    "static/media/project4.png": "/craftznora-homepage/static/media/project4.80389e37b539bdac00e2.png",
+    "static/media/project3.png": "/craftznora-homepage/static/media/project3.524c17aa2be14d92cf66.png",
+    "static/media/testimonial1.png": "/craftznora-homepage/static/media/testimonial1.ff65bed550f3b0070fba.png",
+    "static/media/testimonial3.png": "/craftznora-homepage/static/media/testimonial3.3d9197b5bfeeb8e20161.png",
+    "static/media/testimonial2.png": "/craftznora-homepage/static/media/testimonial2.e4648aefe356e1a9698f.png",
+    "index.html": "/craftznora-homepage/index.html",
+    "main.b9f7eb6d.css.map": "/craftznora-homepage/static/css/main.b9f7eb6d.css.map",
+    "main.9cf2a095.js.map": "/craftznora-homepage/static/js/main.9cf2a095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f7eb6d.css",
+    "static/js/main.9cf2a095.js"
+  ]
+}
